@@ -2,7 +2,7 @@ package LinkedListPackage;
 
 public class LinkedList {
 
-    private Node head;
+    public Node head;
 
     public void addFirst(int data){
         Node node = new Node(data,null);
@@ -88,13 +88,10 @@ public class LinkedList {
         prev.next = current.next;
     }
 
-    public void printList(){
-        Node current = head;
-        while(current!=null){
-            System.out.println(current.data);
-            current=current.next;
+        public void printList(Node node){
+        while(node!=null){
+            System.out.print(node.data+" ");
+            node=node.next;
         }
-
     }
-
 }
