@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c99bbf-97e1-46d3-ba71-740b9e420580" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListPackage/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListPackage/DetectLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListPackage/FindMiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListPackage/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/LinkedListPackage/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/LinkedListPackage/LinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LinkedList/LinkedListPackage/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/LinkedListPackage/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedListPackage/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListPackage/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinkedListPackage/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListPackage/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Peak_Element/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Peak_Element/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -76,22 +75,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1586371149172" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1586371993506">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1586441295922">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586371993506" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1586371993505">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586441295922" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1586441295921">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586371993505" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1586371993505">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586441295921" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1586441295921">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586371993505" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1586371993506">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586441295921" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1586441295921">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586371993506" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586441295921" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1586358473024">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
